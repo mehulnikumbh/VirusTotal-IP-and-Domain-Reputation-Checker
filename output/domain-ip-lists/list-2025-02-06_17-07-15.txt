@@ -1,0 +1,4 @@
+IP: 8.8.8.8, Country: US, Last Analysis Results Count: 0, Malicious Count: 0, Total Engines: 94, Reputation Score: 0/94
+Domain: example.com, Country: None, Last Analysis Results Count: 0, Malicious Count: 0, Total Engines: 94, Reputation Score: 0/94
+IP: 1.1.1.1, Country: None, Last Analysis Results Count: 0, Malicious Count: 0, Total Engines: 94, Reputation Score: 0/94
+Domain: anotherexample.com, Country: None, Last Analysis Results Count: 0, Malicious Count: 0, Total Engines: 94, Reputation Score: 0/94

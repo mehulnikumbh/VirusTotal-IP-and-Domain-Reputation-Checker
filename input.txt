@@ -1,0 +1,3 @@
+# Add your IP and/or domain list here (one IP/domain per line)
+47.147.152.89
+172.56.54.228

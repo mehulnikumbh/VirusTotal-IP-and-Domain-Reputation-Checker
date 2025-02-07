@@ -1,0 +1,15 @@
+Domain: google.com
+Categories: Search Engines/Portals (alphaMountain.ai), portals, search engines, search engines and portals
+Creation Date: 874306800
+Last Analysis Date: 1738888107
+Last Analysis Stats:
+  Harmless: 66
+  Malicious: 0
+  Suspicious: 0
+  Timeout: 0
+  Undetected: 28
+Last Modification Date: 1738890244
+Reputation Score: 602
+Tags: 
+Total Votes: Harmless - 399, Malicious - 66
+----------------------------------------
